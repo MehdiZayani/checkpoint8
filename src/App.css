@@ -1,0 +1,24 @@
+.center{
+  text-align: center;
+}
+.moviecard{
+  height: 300px;
+}
+.movies{
+  display:inline-flex;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+.movies{
+  display:inline-flex;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+.movies-top{
+  display:inline-flex;;
+  flex-direction: column;
+  text-align: center;
+  flex-wrap: wrap;
+  height:500px;
+  width: 300px;
+}
